@@ -1,0 +1,16 @@
+---
+title: bolgtest1
+author: chlee
+date: '2021-01-27'
+slug: bolgtest1
+categories:
+  - R
+tags:
+  - R Markdown
+---
+
+
+
+The first test with my office computer
+
+Good~!!!
