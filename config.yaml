@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: A Hugo website
+title: CH's Website
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
@@ -18,6 +18,8 @@ menu:
       url: /about/
     - name: GitHub
       url: https://github.com/rstudio/blogdown
+    - name: GitHub_CH
+      url: https://github.com/CHLee1/blog
     - name: Twitter
       url: https://twitter.com/rstudio
 params:
