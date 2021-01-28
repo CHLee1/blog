@@ -1,0 +1,21 @@
+---
+title: post test 2
+author: ch
+date: '2021-01-28'
+slug: post-test-2
+categories:
+  - R
+tags:
+  - plot
+  - R Markdown
+  - regression
+---
+
+
+두번째 테스트는 한글로 하였습니다.
+
+제목을 한글로 쓰면 에러가 나서, 제목은 영문으로 써봤습니다. 
+
+감사합니다.
+
+꾸벅~~
